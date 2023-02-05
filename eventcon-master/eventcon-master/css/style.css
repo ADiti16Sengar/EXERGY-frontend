@@ -26,7 +26,7 @@
 /* Large Mobile :480px. */
 /* line 6, ../../Arafath/CL/December/236. Event-02/HTML/scss/theme-default.scss */
 body {
-  font-family: "Muli", sans-serif;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   font-weight: normal;
   font-style: normal;
 }
@@ -1057,7 +1057,7 @@ h3 {
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 46, ../../Arafath/CL/December/236. Event-02/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img img {
-    width: 70px;
+    width: 7px;
   }
 }
 
@@ -1136,7 +1136,7 @@ h3 {
 
 /* line 100, ../../Arafath/CL/December/236. Event-02/HTML/scss/_header.scss */
 .header-area .main-header-area .buy_tkt .book_btn a {
-  background: #FF4533;
+  background: #1851c1;
   font-family: "Anton", sans-serif;
   padding: 12px 46px;
   font-size: 16px;
@@ -1478,7 +1478,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/banner.jpg);
 }
 
 /* line 4, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
